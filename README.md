@@ -12,7 +12,7 @@ Well for starter a full config file with everthing that needs to be configured t
 ## Credits:
 # Extra Programming // Config file - Pope7015
 # MassDV - RPCore
-# ChatCommnds - Pope7015
+# ChatCommnds - Pope7015 // RPCore
 # BetterClearChat - Pope7015
 # 911 Script - Pope7015
 
