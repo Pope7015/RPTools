@@ -1,5 +1,5 @@
 -- RPCommands Discord Webhook
-rpcommandswebhook = 'https://discord.com/api/webhooks/889317873317707796/tO3pLC49YZVa1seJiu2wonOdyFzH6PCa0CpiVmJJlZ3m72etH_i_xWlrjov_OOk6Adht' -- Change this webhook to where you want the RPCommands logging to be
+rpcommandswebhook = 'Webhook_Here' -- Change this webhook to where you want the RPCommands logging to be
 
 
 ---------------------------------------------
