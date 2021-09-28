@@ -5,6 +5,7 @@ The instilation can be found below.
 
 ## What's in this?
 Well for starter a full config file with everthing that needs to be configured to your liking.
+# This is based off of RPCore.
 
 #### Fully configured ChatCommands, MassDV, ClearChat command, and commands like `/help, /ts3, /discord, ect`
 
