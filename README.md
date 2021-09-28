@@ -15,3 +15,6 @@ Well for starter a full config file with everthing that needs to be configured t
 # ChatCommnds - Pope7015
 # BetterClearChat - Pope7015
 # 911 Script - Pope7015
+
+##### My Discord: https://discord.gg/9nzcK56DwV
+
